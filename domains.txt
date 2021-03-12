@@ -1,7 +1,1 @@
-DOMAINS = {
-    "qixiaol.com": {"*": ["CM","CU","CT"]},
-    "u1000y.com": {"*": ["CM","CU","CT"]},
-    "qqwl8.com": {"*": ["CM","CU","CT"]},
-    "p60.me": {"*": ["CM","CU","CT"]},
-    "yalian.me": {"*": ["CM","CU","CT"]}
-}
+{"qixiaol.com": {"*": ["CM","CU","CT"]},"u1000y.com": {"*": ["CM","CU","CT"]},"qqwl8.com": {"*": ["CM","CU","CT"]},"p60.me": {"*": ["CM","CU","CT"]},"yalian.me": {"*": ["CM","CU","CT"]}}
